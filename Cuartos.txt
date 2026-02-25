@@ -1,9 +1,10 @@
 ArtSot,1
 Pancho0308,1
+Jcortana117ダニエラ,1
 Uranic_,0
 Kanna_Mai,0
-[1] Local Player,0
-Jcortana117ダニエラ,1
+[1] Local Player,1
 AustriVestri,2
 cachi00,1
+
 
