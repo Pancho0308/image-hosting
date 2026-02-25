@@ -1,7 +1,2 @@
 Pancho0308,1
 ArtSot,5
-[1] Local Player,1
-Lightdths,7
-Owent_,7
-cachi00,7
-John Wipe,7
